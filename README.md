@@ -1,6 +1,10 @@
 # TED-Hacks
 7360 TED video chip related stuff
 
+## plus4_tech.pdf
+
+This is the very good quality scan of a pretty "deep" TED doc by Vladimir Lidovski.
+
 ## hsp_irq.asm
 
 This is the demonstation of something what is called DMA delay on C64, except that it does not delay the DMA on TED. :) So, I prefer to call it HSP what stands for horizontal screen positioning, as it can shift the char/color matrix by 1-39 positions making large horizontal shifting possible without rewriting the whole char/color matrix.
