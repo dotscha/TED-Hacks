@@ -14,5 +14,5 @@ This code is the essence of a LOT of experimentation with the infamous $FF1E reg
 ## Requirements
 
  - GNU Make
- - The Macroassembler AS: http://john.ccac.rwth-aachen.de:8000/as [(src)](http://john.ccac.rwth-aachen.de:8000/ftp/as/source/c_version/) [(bin)](http://john.ccac.rwth-aachen.de:8000/ftp/as/precompiled/)
+ - The Macroassembler AS: http://john.ccac.rwth-aachen.de:8000/as, Downloads: [(src)](http://john.ccac.rwth-aachen.de:8000/ftp/as/source/c_version/), [(bin)](http://john.ccac.rwth-aachen.de:8000/ftp/as/precompiled/)
  - Platform: Win, Linux or Android ([Termux](https://termux.com/)).
