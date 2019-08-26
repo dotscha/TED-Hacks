@@ -3,7 +3,7 @@
 
 ## plus4_tech.pdf
 
-This is the very good quality scan of a pretty "deep" TED doc by Vladimir Lidovski.
+This is the very good quality scan of a pretty "deep" TED doc by Vladimir Lidovski, original files by Tibor Biczo.
 
 ## hsp_irq.asm
 
