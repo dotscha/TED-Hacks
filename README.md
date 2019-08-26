@@ -11,4 +11,4 @@ This code is the essence of a LOT of experimntation with the infamous $FF1E regi
 
  - GNU Make
  - The Macroassembler AS: http://john.ccac.rwth-aachen.de:8000/as/
- - Platform: Win, Linux or Android (Termux).
+ - Platform: Win, Linux or Android ([Termux](https://termux.com/)).
